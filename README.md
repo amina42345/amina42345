@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning html/css, javascript, python
 - 💞️ I’m looking to collaborate on  open-source projets , web application 
 - 📫 How to reach me your email or social media links
-- 😄 Pronouns: she/her
+- 😄 Pronouns: she
 - ⚡ Fun fact: i love gaming
 
 <!---
