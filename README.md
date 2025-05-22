@@ -1,12 +1,11 @@
-- 👋 Hi, I’m @amina42345
-- 👀 I’m interested in programming Al web development
-- 🌱 I’m currently learning html/css, javascript, python
-- 💞️ I’m looking to collaborate on  open-source projets , web application 
-- 📫 How to reach me your email or social media links
-- 😄 Pronouns: she
-- ⚡ Fun fact: i love gaming
+Salut, je suis @amina42345  
+👀 Je m'intéresse à la programmation et au développement web  
+🌱 J'apprends actuellement le HTML/CSS, le JavaScript et le Python  
+💞 Je cherche à collaborer sur des projets open source ou des applications web  
+📫 Pour me contacter : [mets ici ton e-mail ou un lien vers ton réseau social]  
+😄 Pronoms : elle/elle  
+⚡ Fait amusant : j'adore les jeux vidéo
 
-<!---
-amina42345/amina42345 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+mise a jour du README
+<
